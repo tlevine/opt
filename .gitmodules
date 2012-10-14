@@ -1,0 +1,6 @@
+[submodule "nvm"]
+	path = nvm
+	url = git@github.com:tlevine/nvm.git
+[submodule "git-achievements"]
+	path = git-achievements
+	url = git@github.com:tlevine/git-achievements.git
