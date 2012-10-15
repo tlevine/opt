@@ -4,3 +4,6 @@
 [submodule "git-achievements"]
 	path = git-achievements
 	url = git@github.com:tlevine/git-achievements.git
+[submodule "pdf2svg"]
+	path = pdf2svg
+	url = git@github.com:scraperwiki/pdf2svg
