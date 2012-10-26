@@ -10,3 +10,6 @@
 [submodule "spark"]
 	path = spark
 	url = git://github.com/holman/spark.git
+[submodule "urchin"]
+	path = urchin
+	url = git@github.com:scraperwiki/urchin.git
