@@ -7,3 +7,6 @@
 [submodule "pdf2svg"]
 	path = pdf2svg
 	url = git@github.com:scraperwiki/pdf2svg
+[submodule "spark"]
+	path = spark
+	url = git://github.com/holman/spark.git
