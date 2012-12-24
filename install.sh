@@ -16,8 +16,8 @@ sm
 ln -s ~/opt/pdf2svg/pdf2svg.sh ~/bin/pdf2svg
 ln -s ~/opt/spark/spark ~/bin/spark
 ln -s ~/opt/urchin/urchin ~/bin/urchin
-echo 'python2 ~/opt/gitmarks_2/gitmark.py' ~/bin/gitmark
-echo 'python2 ~/opt/gitmarks_2/gitmark_web.py' ~/bin/gitmark_web
+echo 'python2 ~/opt/gitmarks_2/gitmark.py' > ~/bin/gitmark
+echo 'python2 ~/opt/gitmarks_2/gitmark_web.py' > ~/bin/gitmark_web
 
 # Things to do
 echo 'Source ~/opt/nvm/nvm.sh in your profile.'
