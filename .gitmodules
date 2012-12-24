@@ -13,6 +13,6 @@
 [submodule "urchin"]
 	path = urchin
 	url = git@github.com:scraperwiki/urchin.git
-[submodule "gitmarks_2"]
-	path = gitmarks_2
-	url = git@github.com:tlevine/gitmarks_2.git
+[submodule "medial_temporal_lobe"]
+	path = medial_temporal_lobe
+	url = git@github.com:tlevine/medial_temporal_lobe.git
